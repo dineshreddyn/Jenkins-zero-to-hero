@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: azurelearning0220/ultimate-cicd:replaceImageTag
+        image: azurelearning0220/ultimate-cicd:11
         ports:
         - containerPort: 8080
